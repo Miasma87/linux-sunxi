@@ -1,0 +1,11 @@
+
+History of Realtek RTL2832U DVB-T Linux Driver: 
+
+
+Ver 1.1  a. add customers' VID&PID
+         b. solve the bug that our module cann't be removed when the device is plugged out.
+
+Ver 1.0  support  tuners--MT2266 FC2580 TUA9001 and MXL5007T 		
+
+
+
